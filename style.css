@@ -7,4 +7,9 @@ h1 {
   text-decoration: underline;
   font-size: 20 px;
 }
+.noidung{
+  color:black;
+  text-style:normal;
+  font-size: 24 px;
+}
 
